@@ -1,2 +1,0 @@
-# example-project
-PAL Training
